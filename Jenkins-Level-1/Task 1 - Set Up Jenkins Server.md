@@ -100,7 +100,7 @@ Wait for all plugins to finish installing.
 
 ---
 
-9. Create the Admin User
+9. **Create the Admin User**
 
 When prompted, fill in these details:
 
